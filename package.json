@@ -1,0 +1,19 @@
+{
+  "name": "rgb-to-rgba-postcss",
+  "version": "1.0.0",
+  "description": "Postcss plugin to replace all rgb(255 255 255 / var(--any-var)) with rgba(255, 255, 255, var(--any-var))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medzhidov/rgb-to-rgba-postcss.git"
+  },
+  "author": "medzhidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medzhidov/rgb-to-rgba-postcss/issues"
+  },
+  "homepage": "https://github.com/medzhidov/rgb-to-rgba-postcss#readme"
+}
